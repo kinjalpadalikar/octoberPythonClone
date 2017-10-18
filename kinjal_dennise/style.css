@@ -1,0 +1,107 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width:100%;
+ background-color:#1e415e;
+ margin: 0px auto;
+ padding:20px;
+}
+
+#header{
+ height: 100px;
+ background-color:#3776ab;
+ margin-bottom: 23px;
+ text-align: left;
+ font-size: 30px;
+ border-radius: 20px;
+ display: :inline;
+}
+ #header p {
+ 	display: inline;
+ 	padding-left:90px;
+ 	padding-top: 50px;
+ 	text-align: center;
+ 	color:white;
+
+ }
+
+#navigation{
+ height: 300px;
+ width: 200px;
+ background-color:#1e415e;
+ display: inline-block;
+ margin-left: 20px;
+ margin-right: 42px;
+ color: white;
+ list-style-type: ;
+ text-decoration: underline;
+ border-radius: 20px;
+ font-size: 20px;
+ font-family: arial;
+}
+#main_content{
+ height: 400px;
+ width: 1000px;
+ background-color:#1e415e;
+ display: inline-block;
+ vertical-align: top;
+ color: #becee8;
+ text-align: center;
+ border-radius: 20px;
+}
+
+#main_content h2{
+	color: yellow;
+
+}
+
+#main_content p{
+	color: white;
+
+}
+#footer ul li{
+	display: inline;
+	text-align: center;
+}
+#footer {
+ height: 120px;
+ width: 640px;
+ text-align: center;
+}
+
+#main_content2 ul li{
+	color:blue;
+	list-style-type: square;
+}
+
+#main_content2 h3{
+	color: black;
+}
+#main_content2 {
+	width:50%;
+	color: black;
+	background-color: white;
+	display:block;
+	text-align: center;
+	padding-left: 50px;
+}
+
+#main_content3 ul li{
+	color:blue;
+	list-style-type: square;
+}
+
+#main_content3 h3{
+	color: black;
+}
+#main_content3 {
+	width:50%;
+	color: black;
+	background-color: white;
+	display: block;
+	text-align: center;
+	padding-left: 50px;
+}
